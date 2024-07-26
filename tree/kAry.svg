@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="151.0432mm"
+   height="26.437366mm"
+   viewBox="0 0 151.0432 26.437367"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="kAry.svg"
+   inkscape:version="1.3 (0e150ed, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.9379953"
+     inkscape:cx="223.16876"
+     inkscape:cy="125.9033"
+     inkscape:window-width="2560"
+     inkscape:window-height="1387"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="ArrowWide"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWide-1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         id="path1-1" />
+    </marker>
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-17.352581,-38.336156)">
+    <rect
+       style="opacity:0.94;fill:#75b9da;fill-rule:evenodd;stroke-width:3.66501"
+       id="rect1"
+       width="37.819729"
+       height="20.244677"
+       x="17.352581"
+       y="44.493793" />
+    <text
+       xml:space="preserve"
+       style="font-size:11.3492px;opacity:0.94;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:3.66501"
+       x="32.480469"
+       y="54.504902"
+       id="text1"><tspan
+         id="tspan1"
+         style="fill:#000000;fill-opacity:1;stroke-width:3.665"
+         x="32.480469"
+         y="54.504902" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.29364px;opacity:0.94;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:3.66501"
+       x="30.929739"
+       y="56.511749"
+       id="text2"><tspan
+         id="tspan2"
+         style="font-size:4.29364px;stroke-width:3.665"
+         x="30.929739"
+         y="56.511749">Data</tspan></text>
+    <rect
+       style="opacity:0.94;fill:#75b9da;fill-rule:evenodd;stroke-width:3.66501"
+       id="rect1-9"
+       width="37.819729"
+       height="20.244677"
+       x="55.253143"
+       y="44.50724" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.29364px;opacity:0.94;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:3.66501"
+       x="68.830299"
+       y="56.525196"
+       id="text2-9"><tspan
+         id="tspan2-9"
+         style="font-size:4.29364px;stroke-width:3.665"
+         x="68.830299"
+         y="56.525196">CHILD1</tspan></text>
+    <rect
+       style="opacity:0.94;fill:#75b9da;fill-rule:evenodd;stroke-width:3.66501"
+       id="rect1-9-3"
+       width="37.819729"
+       height="20.244677"
+       x="92.832733"
+       y="44.493221" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.29364px;opacity:0.94;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:3.66501"
+       x="106.40989"
+       y="56.511177"
+       id="text2-9-6"><tspan
+         id="tspan2-9-5"
+         style="font-size:4.29364px;stroke-width:3.665"
+         x="106.40989"
+         y="56.511177">CHILD2</tspan></text>
+    <rect
+       style="opacity:0.94;fill:#75b9da;fill-rule:evenodd;stroke-width:3.66501"
+       id="rect1-9-3-4"
+       width="37.819729"
+       height="20.244677"
+       x="130.57605"
+       y="44.528847" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.29364px;opacity:0.94;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:3.66501"
+       x="144.1532"
+       y="56.546803"
+       id="text2-9-6-7"><tspan
+         id="tspan2-9-5-1"
+         style="font-size:4.29364px;stroke-width:3.665"
+         x="144.1532"
+         y="56.546803">CHILDK</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.29364px;opacity:0.94;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:3.66501"
+       x="59.848591"
+       y="103.19681"
+       id="text2-9-1"><tspan
+         id="tspan2-9-8"
+         style="font-size:4.29364px;stroke-width:3.665"
+         x="59.848591"
+         y="103.19681" /></text>
+    <path
+       style="opacity:0.94;fill:#9d4b4b;fill-rule:evenodd;stroke:#000000;stroke-width:0.3"
+       d="m 17.489105,44.206698 57.61323,-3.276581"
+       id="path2" />
+    <path
+       style="opacity:0.94;fill:#9d4b4b;fill-rule:evenodd;stroke:#000000;stroke-width:0.3"
+       d="M 167.93882,44.206698 106.77596,40.930117"
+       id="path3" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.29363px;opacity:0.94;fill:#9d4b4b;fill-rule:evenodd;stroke:#000000;stroke-width:0.3"
+       x="83.157265"
+       y="41.885784"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="stroke-width:0.3"
+         x="83.157265"
+         y="41.885784">A NODE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.29363px;opacity:0.94;fill:#9d4b4b;fill-rule:evenodd;stroke:#000000;stroke-width:0.3"
+       x="90.873093"
+       y="63.261673"
+       id="text3-8"><tspan
+         sodipodi:role="line"
+         id="tspan3-6"
+         style="stroke-width:0.3"
+         x="90.873093"
+         y="63.261673">SIZE IF FIXED</tspan></text>
+  </g>
+</svg>
